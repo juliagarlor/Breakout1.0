@@ -35,6 +35,4 @@ Please, make sure to check the lecture to develop this project in the following 
 
 Regarding to this flappy-bird version, any feedback for improvement is welcome, and I hope you have fun using it.
 
-![Win](screenshots/Medal.JPG)
-
 Developed with ❤ by Julia García
